@@ -1,6 +1,5 @@
 # Comprehensive-SEO-Audit-Optimization-for-GoFrugal
 A comprehensive SEO audit for GoFrugal’s website aimed at identifying optimization opportunities. The project includes keyword analysis, on-page and off-page SEO improvements, and recommendations for enhancing the website’s search engine ranking.
-# Comprehensive SEO Audit & Optimization for GoFrugal
 
 This repository contains the final presentation for the SEO audit and optimization project completed for GoFrugal. The project aims to analyze and improve GoFrugal’s website to boost its organic search rankings and overall web presence.
 
