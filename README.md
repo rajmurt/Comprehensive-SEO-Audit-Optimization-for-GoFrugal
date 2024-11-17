@@ -18,4 +18,4 @@ This repository contains the final presentation for the SEO audit and optimizati
 - Ahrefs
 
 ## View the final deliverable:
-- [Download the final PowerPoint presentation](path-to-ppt)
+- [Download the final PowerPoint presentation](https://github.com/rajmurt/Comprehensive-SEO-Audit-Optimization-for-GoFrugal/blob/cfbb19596cbf2b45d1da2e5ea3d589a25cb739dd/Comprehensive-SEO-Audit-Optimization-for-GoFrugal.pptx)
